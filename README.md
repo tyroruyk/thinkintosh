@@ -1,5 +1,5 @@
-# Thinkintosh: Lenovo Thinkpad T480s - OpenCore Configuration
-Hackintosh in a Thinkpad T480s
+# Thinkintosh: Lenovo Thinkpad T480s
+Hackintosh in a Thinkpad T480s - OpenCore Configuration
 
 ## Disclaimer
 This guide is only for the Lenovo ThinkPad T480s. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
