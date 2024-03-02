@@ -228,7 +228,7 @@ After creating the install media, copy your EFI folder to the EFI partition of y
 
 ## License
 
-This repo is licensed under the [GPL-3 License](https://github.com/avishekdutta531/thinkintosh/blob/main/LICENSE).
+This repo is licensed under the [MIT License](https://github.com/avishekdutta531/thinkintosh/blob/main/LICENSE).
 
 OpenCore is licensed under the [BSD 3-Clause License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt).
 
@@ -237,5 +237,5 @@ OpenCore is licensed under the [BSD 3-Clause License](https://github.com/acidant
 <br>
 <br>
 <p align="center">
-	<a href="https://github.com/avishekdutta531/thinkintosh/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GPL-3&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+	<a href="https://github.com/avishekdutta531/thinkintosh/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
