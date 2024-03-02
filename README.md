@@ -226,6 +226,10 @@ After creating the install media, copy your EFI folder to the EFI partition of y
 
 &nbsp;
 
+#### Thanks to
+  	- [valnoxy's t480-oc](https://github.com/valnoxy/t480-oc)
+   	- [t480s opencore](https://github.com/askwakhid/ThinkPad-T480s-macOS-OpenCore)
+
 ## License
 
 This repo is licensed under the [MIT License](https://github.com/avishekdutta531/thinkintosh/blob/main/LICENSE).
