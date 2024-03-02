@@ -32,7 +32,7 @@ These are the Hardware components that I use. But this OpenCore configuration <s
 </br>
 
 You must have the following items:
-- Lenovo ThinkPad T480 (Obviously 😁).
+- Lenovo ThinkPad T480 (Obviously :)).
 - Access to a working Windows machine with Python installed.
 - A pendrive with more than 4 GB (Remember that during the preparation we will format the flash drive to create the installation media).
 - an Internet connection (recommended via Ethernet).
